@@ -93,7 +93,7 @@ namespace Game
         public void CreateBall2()
         {
             //Creem una bola
-            Ball ball = new Game.Ball(100, 325, 50, 50, Colors.Black);
+            Ball ball = new Game.Ball(830, 325, 50, 50, Colors.Black);
 
             //Dibuixem la bola al taulell
             CanvasBalls.Children.Add(ball.BallDraw.ShapeBall);
