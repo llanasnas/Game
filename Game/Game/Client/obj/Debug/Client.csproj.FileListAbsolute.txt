@@ -1,0 +1,5 @@
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\Client\bin\Debug\Client.exe.config
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\Client\bin\Debug\Client.exe
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\Client\bin\Debug\Client.pdb
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\Client\obj\Debug\Client.exe
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\Client\obj\Debug\Client.pdb

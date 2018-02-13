@@ -1,0 +1,4 @@
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\GameClasses\bin\Debug\GameClasses.dll
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\GameClasses\bin\Debug\GameClasses.pdb
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\GameClasses\obj\Debug\GameClasses.dll
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\GameClasses\obj\Debug\GameClasses.pdb

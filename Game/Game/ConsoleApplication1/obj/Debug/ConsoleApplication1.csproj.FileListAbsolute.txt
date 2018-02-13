@@ -1,0 +1,6 @@
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Usuari1\Documents\Visual Studio 2015\Game\Game\Game\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
